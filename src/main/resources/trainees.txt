@@ -1,0 +1,6 @@
+1,John,Smith,true,1995-06-12,123 Main St, NY, USA
+2,Emily,Johnson,true,1998-09-25,456 Elm St, LA, USA
+3,Michael,Brown,false,1997-03-18,789 Oak St, Chicago, USA
+4,Jessica,Davis,true,2000-12-05,321 Pine St, Houston, USA
+5,David,Wilson,true,1996-07-21,654 Maple St, Phoenix, USA
+6,John,Smith,true,2001-01-15,888 Broadway, NY, USA
